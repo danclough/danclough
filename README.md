@@ -1,4 +1,4 @@
-I’m @danclough (he/him).
+I’m @danclough.
 
 ## Interests
 I'm a developer, DevOps-focused engineer, and technology architect.  I have specific interests in networking, cloud infrastructure and architecture, and distributed systems.
