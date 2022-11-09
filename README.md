@@ -9,6 +9,3 @@ If you'd like to see more of me, follow me on [Mastodon](https://infosec.exchang
 
 ## Personal values
 I strive to be an ally and to use my position of privilege to advance social equity, equality, and justice.
-
-## Links
-<a rel="me" href="https://infosec.exchange/@danclough">Mastodon</a>
